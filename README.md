@@ -50,6 +50,12 @@ Test results on KITTI dataset:
 | Conv1D [2]                   |      44.13     |      24.38     |      0.49     |
 | Ours                         |    **37.11**   |    **17.88**   |    **0.53**   |
 
+### Dataset Demo
+![Alt Text](data/samples/hevi_demo.gif)
+
+### Prediction Demo
+![Alt Text](data/samples/demo.gif)
+
 ### Reference
 [1] Yao Y, Xu M, Choi C, Crandall DJ, Atkins EM, Dariush B. Egocentric Vision-based Future Vehicle Localization for Intelligent Driving Assistance Systems. arXiv preprint arXiv:1809.07408. 2018 Sep 19.
 

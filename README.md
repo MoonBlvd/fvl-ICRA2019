@@ -58,6 +58,16 @@ Test results on KITTI dataset:
 ### Prediction Demo
 ![Alt Text](data/samples/demo.gif)
 
+### Citation
+If you found the repo is useful, please feel free to cite our paper:
+
+	@article{yao2018egocentric,
+	title={Egocentric Vision-based Future Vehicle Localization for Intelligent Driving Assistance Systems},
+	author={Yao, Yu and Xu, Mingze and Choi, Chiho and Crandall, David J and Atkins, Ella M and Dariush, Behzad},
+	journal={arXiv preprint arXiv:1809.07408},
+	year={2018}
+	}
+
 ### Reference
 [1] Yao Y, Xu M, Choi C, Crandall DJ, Atkins EM, Dariush B. Egocentric Vision-based Future Vehicle Localization for Intelligent Driving Assistance Systems. arXiv preprint arXiv:1809.07408. 2018 Sep 19.
 

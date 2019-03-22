@@ -5,7 +5,8 @@ This repo contains source code of future vehicle localization (FVL)[1], implemen
 
 :boom: <span style="color:red">ATTENTION</span>: The current repo is a placeholder. The original Keras code is not released yet due to the HRI authority issue. The readers are redirected to a [pytorch implementation](https://github.com/MoonBlvd/tad-IROS2019) of the paper.
 
-![introduction](/data/samples/ad.jpg?raw=true)
+<!-- ![introduction](/data/samples/ad.jpg?raw=true) -->
+<img src="/data/samples/ad.jpg" width="500">
 
 Following dependencies (or newer version):
 	
@@ -14,7 +15,8 @@ Following dependencies (or newer version):
 	keras=1.1.0.
 The RNN encoder-decoder model:
 
-![introduction](/data/samples/network.png?raw=true)
+<!-- ![introduction](/data/samples/network.png?raw=true) -->
+<img src="/data/samples/network.png" width="500">
 
 To train the model, run
 

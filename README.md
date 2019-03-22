@@ -3,7 +3,7 @@
 
 This repo contains source code of future vehicle localization (FVL)[1], implemented in Keras with tensorflow backend.
 
-:boom: The current repo is a placeholder. The original Keras code is not released yet due to the HRI authority issue. The readers are redirected to a [pytorch implementation](https://github.com/MoonBlvd/tad-IROS2019) of the paper.
+:boom: <span style="color:red">ATTENTION</span>: The current repo is a placeholder. The original Keras code is not released yet due to the HRI authority issue. The readers are redirected to a [pytorch implementation](https://github.com/MoonBlvd/tad-IROS2019) of the paper.
 
 ![introduction](/data/samples/ad.jpg?raw=true)
 

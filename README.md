@@ -3,7 +3,9 @@
 
 This repo contains source code of future vehicle localization (FVL)[1], implemented in Keras with tensorflow backend.
 
-:boom: <span style="color:red">ATTENTION</span>: The current repo is a placeholder. The original Keras code is not released yet due to the HRI authority issue. The readers are redirected to a [pytorch implementation](https://github.com/MoonBlvd/tad-IROS2019) of the paper.
+:boom: <span style="color:red">ATTENTION (05/20/2019)</span>: The [HEV-I dataset](https://usa.honda-ri.com/hevi) is now available. Please follow the instructions on the website to get access to it.
+
+:boom: <span style="color:red">ATTENTION (03/2019)</span>: The current repo is a placeholder. The original Keras code is not released yet due to the HRI authority issue. The readers are redirected to a [pytorch implementation](https://github.com/MoonBlvd/tad-IROS2019) of the paper.
 
 <!-- ![introduction](/data/samples/ad.jpg?raw=true) -->
 <img src="/data/samples/ad.jpg" width="500">

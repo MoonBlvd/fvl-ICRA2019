@@ -1,7 +1,8 @@
 # Egocentric Vision-based Future Vehicle Localization for Intelligent Driving Assistance Systems
 *Yu Yao, Mingze Xu, Chiho Choi, David J. Crandall, Ella M. Atkins, and Behzad Dariush*
 
-This repo contains source code of future vehicle localization (FVL)[1], implemented in Keras with tensorflow backend.
+## Introduction
+This repo contains the source code of future vehicle localization (FVL)[1], implemented in Keras with tensorflow backend.
 
 :boom: <span style="color:red">ATTENTION (05/20/2019)</span>: The [HEV-I dataset](https://usa.honda-ri.com/hevi) is now available. Please follow the instructions on the website to get access to it.
 
@@ -15,6 +16,7 @@ Following dependencies (or newer version):
 	python3.5 or python3.6
 	tensorflow-gpu=1.1.0
 	keras=1.1.0.
+	
 The RNN encoder-decoder model:
 
 <!-- ![introduction](/data/samples/network.png?raw=true) -->
